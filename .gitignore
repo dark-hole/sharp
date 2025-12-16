@@ -17,3 +17,5 @@ package-lock.json
 .astro
 docs/dist
 release-notes.md
+temp_auto_push.bat
+temp_interactive_push.bat
